@@ -1,0 +1,65 @@
+
+
+.main1 {
+    width: 90%;
+    margin: 0 auto;
+}
+.header {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+#myInput {
+    border-radius:20px;
+}
+
+
+.main2 {
+    width: 90%;
+    margin: 0 auto;
+}
+.part2 {
+    border-radius: 30px;
+    width: 100%;
+    background-color: rgb(30, 30, 30);
+
+}
+
+.pro {
+    vertical-align: sub;
+    font-size: 30px;
+}
+
+.container1 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.part3 {
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+#korzina {
+    width: 80%;
+    border-radius: 10px;
+    background-color: blue;
+    font-weight: 600;
+    color: white;
+
+}
+.oyna {
+    color: blue;
+    padding: 0px;
+}
+.like {
+    font-weight: 600;
+    font-size: rgb(43, 43, 43);
+    
+}
+.container2 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
